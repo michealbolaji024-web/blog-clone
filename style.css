@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    background: #f5f5f5;
+    margin: 0;
+}
+
+/* HEADER */
+header {
+    background: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+/* CONTAINER */
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+/* BLOG CARDS */
+.card {
+    background: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+.meta {
+    color: gray;
+    font-size: 14px;
+}
+
+/* TAGS */
+.tag {
+    background: #eee;
+    padding: 5px 10px;
+    margin-right: 5px;
+    font-size: 12px;
+    border-radius: 5px;
+}
